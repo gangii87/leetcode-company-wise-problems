@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.4443110186522549,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Merge Two Sorted Lists,89.0,0.662895598755762,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Integer to Roman,89.0,0.6785824425620389,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,LRU Cache,100.0,0.44936927999184917,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Median of Two Sorted Arrays,74.2,0.4348817429426213,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Merge Two Sorted Lists,65.6,0.6665310573570875,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Longest Substring Without Repeating Characters,65.6,0.36716099636063393,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Sliding Window Maximum,65.6,0.47465323443825935,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

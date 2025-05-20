@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Edit Distance,100.0,0.5819016011995422,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
-MEDIUM,Merge Intervals,100.0,0.4880676600539241,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Group Anagrams,100.0,0.707249872506213,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Edit Distance,89.4,0.5857403507614843,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+MEDIUM,Merge Intervals,89.4,0.491956995530691,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Longest Palindromic Substring,89.4,0.35649917428055283,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

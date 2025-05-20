@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Iterator,100.0,0.6518901557732455,https://leetcode.com/problems/zigzag-iterator,"Array, Design, Queue, Iterator"
-MEDIUM,Simple Bank System,89.0,0.6338909634055265,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Simple Bank System,100.0,0.6137126900871666,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Time Based Key-Value Store,91.3,0.49294801402067745,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Zigzag Iterator,85.1,0.6557362576381487,https://leetcode.com/problems/zigzag-iterator,"Array, Design, Queue, Iterator"

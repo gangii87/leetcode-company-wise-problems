@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count the Number of Good Subsequences,100.0,0.520434557682359,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+MEDIUM,Make a Positive Array,100.0,0.37471264367816093,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"

@@ -1,0 +1,2 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Number of Visited Cells in a Grid,100.0,0.22721306369440922,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"

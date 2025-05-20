@@ -1,2 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Binary Tree Right Side View,100.0,0.6563556664880508,https://leetcode.com/problems/binary-tree-right-side-view,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Container With Most Water,100.0,0.5757714978909403,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Number of Distinct Islands,88.4,0.6214571122826652,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+MEDIUM,Next Permutation,88.4,0.42792963515945026,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Trapping Rain Water,88.4,0.6481189113860532,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

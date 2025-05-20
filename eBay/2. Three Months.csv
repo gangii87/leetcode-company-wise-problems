@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Spiral Matrix,100.0,0.5293294861000031,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,LRU Cache,100.0,0.4443104468827379,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.44936796981227217,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Matchsticks to Square,82.2,0.40822860419553686,https://leetcode.com/problems/matchsticks-to-square,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Time Based Key-Value Store,82.2,0.49294715208755124,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"

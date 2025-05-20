@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Count Strictly Increasing Subarrays,100.0,0.7124655319958163,https://leetcode.com/problems/count-strictly-increasing-subarrays,"Array, Math, Dynamic Programming"
+MEDIUM,Knight Dialer,86.5,0.6106986920732594,https://leetcode.com/problems/knight-dialer,Dynamic Programming

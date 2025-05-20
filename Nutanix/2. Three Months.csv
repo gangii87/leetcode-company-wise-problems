@@ -1,5 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7033701148221215,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Boundary of Binary Tree,100.0,0.46787119736548405,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,LRU Cache,100.0,0.4443108943898094,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Spiral Matrix,100.0,0.5293297276822649,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+HARD,Valid Number,100.0,0.21410757466141983,https://leetcode.com/problems/valid-number,String
+MEDIUM,Spiral Matrix,87.9,0.5357356062991769,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+HARD,Binary Tree Maximum Path Sum,87.9,0.4111835301715405,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+HARD,Maximum Frequency Stack,87.9,0.6610471197167989,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
+MEDIUM,Merge Intervals,87.9,0.4919334438128869,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Reverse Linked List II,87.9,0.49417689327121406,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Clone Graph,87.9,0.6195343940232211,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Surrounded Regions,87.9,0.4255738870347844,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Search a 2D Matrix,87.9,0.5208708621239933,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"

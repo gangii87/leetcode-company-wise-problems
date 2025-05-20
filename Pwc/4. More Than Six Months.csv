@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Majority Element,100.0,0.6565347254400463,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+EASY,Longest Common Prefix,100.0,0.45270121151346904,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Best Time to Buy and Sell Stock,100.0,0.55066726354953,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Palindromic Substring,100.0,0.3564941286401537,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

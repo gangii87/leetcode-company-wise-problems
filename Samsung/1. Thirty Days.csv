@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Increasing Subsequence,100.0,0.5717088607594937,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Possible Bipartition,86.5,0.5118927958299606,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+EASY,Guess Number Higher or Lower,100.0,0.5558246386458919,https://leetcode.com/problems/guess-number-higher-or-lower,"Binary Search, Interactive"

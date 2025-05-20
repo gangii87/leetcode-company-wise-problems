@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5507379956352498,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Spiral Matrix,100.0,0.5357349085936135,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,House Robber III,100.0,0.5485689554740016,https://leetcode.com/problems/house-robber-iii,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

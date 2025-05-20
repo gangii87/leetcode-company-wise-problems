@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Basic Calculator II,100.0,0.45628515614368453,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
