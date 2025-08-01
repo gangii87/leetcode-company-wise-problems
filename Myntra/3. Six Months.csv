@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Largest Rectangle in Histogram,100.0,0.4706838369357344,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
-HARD,First Missing Positive,100.0,0.4093511759364199,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Target Sum,100.0,0.5058080616185305,https://leetcode.com/problems/target-sum,"Array, Dynamic Programming, Backtracking"
-MEDIUM,Minimum Moves to Equal Array Elements II,100.0,0.6088080498598216,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
-MEDIUM,Rotting Oranges,100.0,0.5635860950173812,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Deepest Leaves Sum,100.0,0.8631824817518248,https://leetcode.com/problems/deepest-leaves-sum,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Minimum Moves to Equal Array Elements II,100.0,0.6095862132467602,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
+MEDIUM,Rotting Oranges,100.0,0.5661860286407837,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Deepest Leaves Sum,100.0,0.8634979671040474,https://leetcode.com/problems/deepest-leaves-sum,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Container With Most Water,100.0,0.5778290777243622,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

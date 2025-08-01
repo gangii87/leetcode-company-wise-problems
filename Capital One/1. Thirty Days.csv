@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Operations to Write the Letter Y on a Grid,100.0,0.61572567210846,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"
-MEDIUM,Candy Crush,88.7,0.7732019184745978,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
-HARD,Block Placement Queries,79.7,0.16508500659533928,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Rotating the Box,100.0,0.7909813050714205,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+HARD,Block Placement Queries,89.6,0.168902023187088,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Merge Intervals,89.6,0.4939526057316443,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Simple Bank System,89.6,0.6142935665806328,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Simplify Path,89.6,0.47854346003751436,https://leetcode.com/problems/simplify-path,"String, Stack"

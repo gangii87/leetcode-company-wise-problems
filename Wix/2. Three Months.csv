@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotting Oranges,100.0,0.5635867862367139,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Escape The Ghosts,88.0,0.6251682244713603,https://leetcode.com/problems/escape-the-ghosts,"Array, Math"
-MEDIUM,Subsets,81.8,0.8063846489543923,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
-EASY,Valid Parentheses,73.1,0.4216027948114452,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Strong Password Checker,100.0,0.14622730217105126,https://leetcode.com/problems/strong-password-checker,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,As Far from Land as Possible,85.5,0.5184355695888827,https://leetcode.com/problems/as-far-from-land-as-possible,"Array, Dynamic Programming, Breadth-First Search, Matrix"
+HARD,Shortest Distance from All Buildings,71.0,0.4437267220297094,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"

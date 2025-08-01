@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,1-bit and 2-bit Characters,100.0,0.4511423881159342,https://leetcode.com/problems/1-bit-and-2-bit-characters,Array
-MEDIUM,Basic Calculator II,100.0,0.45628515614368453,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Merge Intervals,100.0,0.4939525764689584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,1-bit and 2-bit Characters,90.1,0.4511727696394956,https://leetcode.com/problems/1-bit-and-2-bit-characters,Array
+MEDIUM,Basic Calculator II,90.1,0.45811755825176165,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Course Schedule,90.1,0.49234450897866516,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"

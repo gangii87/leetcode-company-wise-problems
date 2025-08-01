@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Merge Sorted Array,100.0,0.5267987341018745,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,LRU Cache,94.9,0.4493777576136144,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Valid Parentheses,69.4,0.42160769497919326,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Merge Sorted Array,100.0,0.529196880584676,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,LRU Cache,94.3,0.4521508317973629,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Valid Parentheses,64.7,0.42322927482455164,https://leetcode.com/problems/valid-parentheses,"String, Stack"

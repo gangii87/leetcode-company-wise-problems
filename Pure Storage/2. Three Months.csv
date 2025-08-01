@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Palindromic Substrings,100.0,0.7152193264231066,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Insert Delete GetRandom O(1),79.9,0.549272615599772,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+EASY,Maximum Repeating Substring,100.0,0.3962144463908421,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"
